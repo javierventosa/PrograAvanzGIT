@@ -1,1 +1,2 @@
-# PrograAvanzGIT
+# PEGUNTAS A LA IA
+EJERCICIO 1
