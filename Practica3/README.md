@@ -7,5 +7,7 @@
     El pass se utiliza cuando las funciones no están definidas o no tienen lógica aún, luego las funciones que ya tienen lógica se les puede quitar el pass.
 -PREGUNTA 4: ¿Para que se utiliza la letra 'f'?
     Se utiliza para poder devolver valores tanto numeros como cadenas en la misma línea.
--PREGUNTA 5:
+-PREGUNTA 5: ¿Como puedo hacer una función accesible fuera de la clase?
+    Tengo que borrar los 2 '_' delante del nombre de la función.
+-PREGUNTA 6: ¿
     
