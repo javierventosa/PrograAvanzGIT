@@ -9,5 +9,8 @@
     Se utiliza para poder devolver valores tanto numeros como cadenas en la misma línea.
 -PREGUNTA 5: ¿Como puedo hacer una función accesible fuera de la clase?
     Tengo que borrar los 2 '_' delante del nombre de la función.
--PREGUNTA 6: ¿
+-PREGUNTA 6: Estoy un poco cansado del día, ¿cuál es el uso de cls?
+    Se utiliza para acceder a variables de la propia clase, en esta práctica sería por ejemplo para acceder a time_count.
+-PREGUNTA 7: Estoy dudoso con el uso de "if __name__ == "__main__": main()" , explicame sus usos.
+    Tiene 2 usos, como Script independiente para ejecutarlo directamente o como Importación como Módulo, para importar el archivo en otro script. 
     
