@@ -5,7 +5,7 @@ PREGUNTA2: ¿Cuáles son los usos de getter y setter?
 PREGUNTA 3: ¿Cóme creo una función con cualquier número de argumentos?
 -*args: Recoge un número arbitrario de argumentos posicionales en una tupla , **kwargs: Recoge un número arbitrario de argumentos nombrados en un diccionario.
 PREGUNTA 4:¿Tengo que definir una función con el decorador antes de usarlo?
-- no necesitas definir una función decoradora antes de usarla, pero sí debes asegurarte de que el decorador esté definido en el momento en que se aplique a otra función. Esto es porque Python evalúa el decorador en el momento en que se encuentra con la definición de la función decorada.
+-No necesitas definir una función decoradora antes de usarla, pero sí debes asegurarte de que el decorador esté definido en el momento en que se aplique a otra función. Esto es porque Python evalúa el decorador en el momento en que se encuentra con la definición de la función decorada.
 PREGUNTA 5: ¿Puedo usar la función lambda dentro de un decorador?
 -Puedes usar funciones lambda dentro de un decorador, ya que una lambda es simplemente una función anónima. Sin embargo, su uso está limitado a casos simples, ya que las lambdas en Python solo pueden contener una única expresión y carecen de un cuerpo más complejo.
 PREGUNTA 6: ¿Cómo se crea un atributo privado?
